@@ -22,8 +22,8 @@ I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - I am studying to be a frontend programmer
 - I have good knowledge in HTML5 & CSS3
 - I have experience using CSS preprocessors (LESS / Sass)
-- I know how to work with GIT,
-- Now I am studying javascript, react, typescript
+- I know how to work with GIT
+- Now I am studying Javascript, React, Typescript
 
 ---
 
